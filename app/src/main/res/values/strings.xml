@@ -1,0 +1,44 @@
+<resources>
+	<string name="app_name">FGO NP Android Calculator</string>
+	<string name="servant_class">Your Servant Class</string>
+	<string name="calculate">Calculate Np Damage</string>
+	<string name="servent_atk">Servent Total ATK</string>
+	<string name="servent_NpDamageMultiplier">NP Damage Multiply</string>
+	<string name="card_mode">Card Buff in %</string>
+	<string name="np_buff">NP Buff in %</string>
+	<string name="atk_buff">Attack Buff in %</string>
+	<string name="trait_buff">Special trait Buff in %</string>
+	<string-array name="serventList">
+		<item>Saber</item>
+		<item>Archer</item>
+		<item>Lancer</item>
+		<item>Rider</item>
+		<item>Caster</item>
+		<item>Assassin</item>
+		<item>Berserker</item>
+		<item>Ruler</item>
+		<item>Avenger</item>
+		<item>Moon_Cancer</item>
+		<item>Alter_Ego</item>
+		<item>Foreigner</item>
+		<item>Shield</item>
+	</string-array>
+	<string-array name="npTypes">
+		<item>Buster</item>
+		<item>Art</item>
+		<item>Quick</item>
+		</string-array>
+	<string-array name="classAdvantage">
+		<item>Yes</item>
+		<item>No</item>
+		<item>Neutral</item>
+		<item>Berserker</item>
+	</string-array>
+	<string-array name="attrAdvantage">
+		<item>Yes</item>
+		<item>No</item>
+		<item>Neutral</item>
+	</string-array>
+
+
+</resources>
