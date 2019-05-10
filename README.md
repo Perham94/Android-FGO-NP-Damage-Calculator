@@ -1,3 +1,7 @@
+![Imgur Image](https://i.imgur.com/KldxEOn.jpg)
+
+
+
 # Android-FGO-NP-Damage-Calculator
 
 This is a open source project that anyone can use and improve it of course.
